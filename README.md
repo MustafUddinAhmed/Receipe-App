@@ -1,3 +1,9 @@
+# Live Demo
+
+This Project is hosted in Netlify
+
+[Click here for the live Demo](https://mustaf-recipe-882d20.netlify.com/).
+
 ## Recipe-App
 This is a simple Recipe app where a visitor can search for existing recipe and get to know about various informations regarding that including the reciepe, calories content,Protein content and much more. The recipes and all it's information is retrieved from EDAMAM's recipe api.
 
