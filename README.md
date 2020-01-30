@@ -1,9 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Overview
-This is a simple Recipe app where a visitor can search for existing recipe and get to know about various informations regarding that, The recipes and all it's information is retrieved from EDAMAM's recipe api.
+## Recipe-App
+This is a simple Recipe app where a visitor can search for existing recipe and get to know about various informations regarding that including the reciepe, calories content,Protein content and much more. The recipes and all it's information is retrieved from EDAMAM's recipe api.
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
